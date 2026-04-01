@@ -1,0 +1,41 @@
+{
+    "java.project.sourcePaths": [
+        "src\\main\\java",
+        "src\\main\\java\\dev\\shandeep\\tomcat\\filters"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\apache-tomcat-9.0.62\\lib\\annotations-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina-ant.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina-ha.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina-ssi.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina-storeconfig.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\catalina-tribes.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\ecj-4.20.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\el-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\jasper.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\jasper-el.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\jaspic-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\jsp-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\servlet-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\spnego-r9.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-api.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-coyote.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-dbcp.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-cs.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-de.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-es.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-fr.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-ja.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-ko.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-pt-BR.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-ru.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-i18n-zh-CN.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-jdbc.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-jni.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-util.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-util-scan.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\tomcat-websocket.jar",
+        "c:\\apache-tomcat-9.0.62\\lib\\websocket-api.jar"
+    ]
+}
